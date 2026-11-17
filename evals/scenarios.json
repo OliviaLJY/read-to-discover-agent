@@ -1,0 +1,21 @@
+[
+  {
+    "id": "grounded_ai",
+    "reading": "Retrieval-augmented generation connects language models to external evidence. Strong evaluation measures citation accuracy, factuality, and whether users can inspect provenance.",
+    "relevant_terms": ["retrieval", "generation", "evaluation", "citation", "factuality", "provenance"],
+    "subtopics": ["retrieval", "evaluation", "provenance"]
+  },
+  {
+    "id": "urban_heat",
+    "reading": "Cities experience heat islands because concrete and asphalt retain warmth. Tree canopy, reflective roofs, equitable planning, and neighborhood temperature sensors can reduce health risks.",
+    "relevant_terms": ["cities", "heat", "islands", "canopy", "roofs", "planning", "sensors"],
+    "subtopics": ["climate", "public health", "urban design"]
+  },
+  {
+    "id": "ocean_microplastics",
+    "reading": "Microplastics move through ocean food webs and are difficult to sample consistently. Researchers compare spectroscopy methods, source reduction policy, wastewater filtration, and ecological effects.",
+    "relevant_terms": ["microplastics", "ocean", "spectroscopy", "policy", "wastewater", "ecology"],
+    "subtopics": ["measurement", "policy", "ecology"]
+  }
+]
+
